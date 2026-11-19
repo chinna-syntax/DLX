@@ -1,6 +1,6 @@
 # Local database
 
-PeerUp uses Dexie over IndexedDB. The database is named `CampusExchangeDB` for compatibility with existing local data.
+UniTrade uses Dexie over IndexedDB. The database remains named `CampusExchangeDB` for compatibility with existing local data.
 and is created by `src/db.ts`.
 
 | Store | Purpose |
